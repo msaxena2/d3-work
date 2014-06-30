@@ -1,2 +1,4 @@
 Uses the D3.js (http://www.d3js.org) library to create interactive graphs. 
 Live Demo at http://web.engr.illinois.edu/~msaxena2/visualization
+The demo uses a CSV of medical data to plot interactive graphs using D3.js.
+The demo also uses Bootstrap (http://www.http://getbootstrap.com/).
